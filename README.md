@@ -6,4 +6,4 @@ The investers can choose to invest in one of the five categories; A, B, C, D, an
 The investment strategy A yields the minimum returns but also involves a minimum risk while the investment strategy E yields maximum returns but involves the highest risk that loan will not be paid back.
 
 
-The machine learning model is built using the advanced logistic regression technique from `sklearn` module of Python.
+The machine learning model is built using the advanced logistic regression techniques from `sklearn` module of Python.
